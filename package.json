@@ -1,6 +1,6 @@
 {
-  "name": "experimental-Bell",
-  "version": "1.0.0",
+  "name": "Zura",
+  "version": "1.0",
   "description": "Artificial Intelligence, The beginning of the robot era",
   "main": "index.js",
   "type": "module",
